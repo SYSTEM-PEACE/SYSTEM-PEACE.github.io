@@ -1,0 +1,43 @@
+#capital{
+    color:rgb(211, 184, 33);
+    text-align:center;
+    background-color:#eb4e10;
+}
+#bilibili_link_div{
+    border-radius: 25px;
+    border: 2px solid #f36404ea;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+#bilibili_link{
+    position:relative;
+    left: 58px;
+    top: 60px;
+    color:#23e986ee;
+    text-decoration:none;
+    border-radius: 25px;
+    background: #8AC007;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+#testimg{
+    position:relative;
+    left: 300px;
+    top: -150px;
+}
+
+#jia{
+    position:relative;
+    left: 450px;
+    top: -235px;
+}
+
+#testbutton{
+    position:relative;
+    left: 450px;
+    top: -235px;
+}
